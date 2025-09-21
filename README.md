@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Vision
-We’re building a next-generation online learning platform that doesn’t just deliver courses — it learns from you as you learn.  
+We’re building a next-generation online learning platform that doesn’t just deliver courses, it learns from you as you learn.  
 Our AI-powered system:
 - Identifies strengths and weaknesses  
 - Builds personalized study paths  
@@ -13,7 +13,7 @@ Our AI-powered system:
 - Challenges you with weekly projects and tests  
 - Keeps learners consistent with weekly content drops  
 
-And with a vibrant community, learners don’t just study — they grow together.  
+And with a vibrant community, learners don’t just study, they grow together.  
 
 ---
 
