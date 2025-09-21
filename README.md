@@ -35,26 +35,23 @@ src/
 ├─ App.jsx # Main app
 └─ main.jsx # React entry point
 
-yaml
-Copy code
+
 
 ---
 
 ## ⚡ Getting Started
 
 1. Clone the repo:
-   ```bash
+  
    git clone https://github.com/p-ikapolok/silicon-world-global.git
    cd silicon-world-global
 Install dependencies:
 
-bash
-Copy code
+
 npm install
 Run the app:
 
-bash
-Copy code
+
 npm run dev
 🌟 Roadmap
  MVP: Homepage, About, Course Catalog, Login/Register
@@ -68,8 +65,7 @@ npm run dev
 📝 License
 This project is licensed under the MIT License.
 
-yaml
-Copy code
+
 
 ---
 
@@ -77,11 +73,10 @@ Copy code
 
 1. Copy that into your local `README.md`.  
 2. Stage & commit it:  
-   ```bash
+   
    git add README.md
    git commit -m "Add clean README"
 Push to GitHub (overwrite conflicts):
 
-bash
-Copy code
+
 git push origin main --force
